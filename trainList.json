@@ -1,0 +1,8 @@
+{
+	"trainList" : [
+		{ "stationName" : "Central Station" , "timeDelay" : 20 },
+		{ "stationName" : "Circular" , 			  "timeDelay" : 60 },
+		{ "stationName" : "North Square", 		"timeDelay" : 12 },
+		{ "stationName" : "West Market", 		  "timeDelay" : 6  }
+	]
+}
